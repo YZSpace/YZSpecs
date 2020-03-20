@@ -33,7 +33,7 @@ YZSpecs 是作者的个人私有仓库。
 
 ## HYZNetwork 是什么
 
-HYZNetwork 是基于 [AFNetworking][AFNetworking] 封装的iOS端简易网络库，通过创建请求对象的方式处理网络接口.
+HYZNetwork 是基于 [AFNetworking](https://github.com/AFNetworking/AFNetworking) 封装的iOS端简易网络库，通过创建请求对象的方式处理网络接口.
 
 ## YZUtils 是什么
 YZUtils是项目开发过程中用到的一些工具类，总结归纳，方便后期开发。
