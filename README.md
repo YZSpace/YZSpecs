@@ -2,7 +2,7 @@
 
 ## YZSpecs 是什么
 
->YZSpecs 是作者的个人私有仓库。
+YZSpecs 是作者的个人私有仓库。
 
 ## specs 用到的命令总结：
 
@@ -32,12 +32,12 @@
 >
 ## HYZNetwork 是什么
 
->HYZNetwork 是基于 [AFNetworking][AFNetworking] 封装的iOS端简易网络库，通过创建请求对象的方式处理网络接口.
+HYZNetwork 是基于 [AFNetworking][AFNetworking] 封装的iOS端简易网络库，通过创建请求对象的方式处理网络接口.
 
 ## YZUtils 是什么
->YZUtils是项目开发过程中用到的一些工具类，总结归纳，方便后期开发。
+YZUtils是项目开发过程中用到的一些工具类，总结归纳，方便后期开发。
 
 ## 联系方式
 
->zone1026, 1024105345@qq.com
+zone1026, 1024105345@qq.com
 
