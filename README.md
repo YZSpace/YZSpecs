@@ -24,8 +24,8 @@ YZSpecs 是作者的个人私有仓库。
 
 ### 提交到自己私有的Specs上
 > 
-* 先在GitHub账户下公开的创建spec库 <pre><code>https://github.com/zone1026/YZSpecs.git </code></pre>
-* 添加本地specs库 <pre><code>pod repo add YZSpecs https://github.com/zone1026/YZSpecs.git </code></pre>
+* 先在GitHub账户下公开的创建spec库 <pre><code>https://github.com/YZSpace/YZSpecs.git </code></pre>
+* 添加本地specs库 <pre><code>pod repo add YZSpecs https://github.com/YZSpace/YZSpecs.git </code></pre>
 * 把YZUtils.podspec推送到YZSpecs库中 <pre><code>pod repo push YZSpecs YZUtils.podspec --allow-warnings </code></pre>
 * 查看我们本地的Specs库：打开Findle，Shift+Command+G -> 前往文件夹 -> 输入：~/.cocoapods/repos ->点击前往，就可以看到YZSpecs文件夹，与master同级
 
